@@ -1,19 +1,19 @@
 
 背景：
-/**
+
 *    14年的时候，学校ACM还缺个OnlineJudege，于是找了个开源的OnlineJudge项目HUSTOJ，改改前台页面，然后还报了个科研立项，把代码*    传上来托管下，免得验收的时候硬盘被格了。
 
 关于 HUSTOJ：
-/**
+
 *    HUSTOJ 是采用GPL的自由软件。
 *    注意：基于本项目源码从事科研、论文、系统开发，必须在文中或系统中表明来自于本项目的内容和创意，否则请勿使用本项目源码。
 *    使用本项目源码和freeproblemset题库请尊重程序员职业和劳动
 *    新用户必看 README 和 FAQ
-*/
+*
 
 
 关于安装使用：
-/**
+
 *    快速安装指南：
 *    1、安装Ubuntu
 *    2、执行如下命令
@@ -25,11 +25,11 @@
 *    3、安装后访问服务器80端口上的web服务JudgeOnline目录
 *        例如 w3m http://127.0.0.1/JudgeOnline
 *    4、Any Question check wiki first.有问题请先查阅Wiki或使用搜索。
-*/       
+*       
 
 
 关于HUSTOJ的版本跟新：
-/**
+
 *    自定义数据运行的在线IDE模式。
 *    FreeBasic? (32bits only)，测试中
 *    Objective-C，测试中
@@ -58,15 +58,15 @@
 *    系统级语言掩码，可系统级屏蔽答题语言。
 *    Ruby、Bash、Python、Perl、C#、PHP 答题功能测试中 http://hustoj.sinaapp.com/
 *    多语言 MultiLanguage? 한국어 中文 فارسی English ไทย 
-*/
+*
 
 
 关于我的更新：
-/**
+
 * 去掉了web页面中的bootstrap部分
 * 自定义了自己的模板
 * 。。。也许还有一些，但是不记得了，以后想起再跟新吧
-* /
+*
 * 
 
 
