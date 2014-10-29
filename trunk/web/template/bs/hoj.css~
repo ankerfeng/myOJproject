@@ -1,0 +1,145 @@
+
+body{
+   font-size:14px;
+   font-family: Times New Roman;
+   background-image: url(../../image/background.jpg);
+}
+a{
+    font-size:16px;
+    color:blue;
+    text-decoration:none;
+}
+
+a:hover{
+   color:orange; 
+}
+
+.astyle{
+   color:black;
+}
+.astyle_ing{
+  color:white;
+}
+.tred{
+  color:white;
+  background-color:orange;
+  text-align:left;
+}
+.tblue
+{
+  text-align:right;
+  background-color:blue;
+  color:white;
+}
+.tred a:hover{
+	color:black;
+	}
+.tred a{
+	color:red;
+}
+.nav{
+   margin:0px auto;
+   width:980px;
+}
+.head
+{
+   margin-left:auto;
+   margin-right:auto;
+   border:1px solid blue;
+}
+.navhead{
+   margin:0px auto;
+   width:100%;
+}
+.navbody{
+   margin:10px auto;
+   width:100%;
+}
+.content
+{
+    font-size:14px;
+    background-color:#F6F4EC;
+}
+#red{
+  color:red;
+}
+#htr
+{	
+   background-color:gray;
+   text-align:center;
+   width:100%;
+}
+#htr2
+{
+   width:100%;
+   text-align:center;
+	
+}
+.tl{
+	text-align:center;
+	background-color:#F6F4EC;
+}
+.tl_1{
+	text-align:center;
+	background-color:white;
+}
+.tl_2{
+	text-align:center;
+	background-color:AAAAFF;
+}
+
+#submission{
+    width:700px;
+    height:350px;
+}
+#broadcast {
+    color: red;
+    height: 14px;
+    position: static;
+    text-align: center;
+    visibility: visible;
+    width: 100%;
+    z-index: 4;
+}
+.foot{
+   height:96px;
+   margin:10px auto;
+   border:1px solid blue;
+   text-align:center;
+   font-size:14px;
+}
+.test{
+  border:1px solid blue;
+
+}
+ul li{
+   list-style:none;
+   float:left;
+   margin-left:31px;
+}
+.font{
+   height:30px;
+   line-height:30px;
+   font-size:14px;
+   color:green;
+}
+	
+#font1
+{
+height:30px;
+text-align:center;
+font-size:14px;
+line-height:30px;
+}
+
+p
+{
+word-wrap: break-word; 
+word-break: normal; 
+}
+.webd{
+font-size:16px;
+
+}
+
+
