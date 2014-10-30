@@ -17,9 +17,7 @@
 *    1、安装Ubuntu
 *    2、执行如下命令
 *        sudo apt-get update
-*        sudo apt-get install subversion
-*        sudo svn co https://github.com/zhblue/hustoj/trunk/trunk/install hustoj
-*        cd hustoj
+*        cd /myOJproject/trunk/install
 *        sudo bash install-interactive.sh
 *    3、安装后访问服务器80端口上的web服务JudgeOnline目录
 *        例如 w3m http://127.0.0.1/JudgeOnline
